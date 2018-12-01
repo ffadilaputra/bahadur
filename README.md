@@ -1,6 +1,16 @@
-## ⛱ Prediksi Cuaca cli
+##👳🏻‍♂️ Bahadur
 
-Repo ini dibuat dalam rangka belajar bikin app cli pakai yahoo api 
+Weather prediction using Yahoo apis 
+
+
+
+## Usage
+
+```javascript
+cuaca [command] <options>
+```
+
+
 
 
 
